@@ -1,0 +1,35 @@
+{
+  "name": "com.neutronstar.systems.chat-gpt-mcp",
+  "version": "10.2.1-neutronstar.1",
+  "displayName": "NEUTRONSTAR Systems CHAT GPT MCP",
+  "description": "A high-control Unity Editor MCP bridge for ChatGPT Codex and other MCP clients. Based on MCP for Unity, expanded with universal serialized-object access, stable object identity, asset dependency analysis, importer control, editor selection/window control, scene visibility/picking, NavMesh control, and a Unity API reflection escape hatch.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.nuget.newtonsoft-json": "3.0.2",
+    "com.unity.test-framework": "1.1.31"
+  },
+  "keywords": [
+    "ai",
+    "chatgpt",
+    "codex",
+    "editor-automation",
+    "llm",
+    "mcp",
+    "mcp-client",
+    "mcp-server",
+    "model-context-protocol",
+    "neutronstar",
+    "serialized-object",
+    "unity"
+  ],
+  "author": {
+    "name": "NEUTRONSTAR Systems"
+  }
+}
